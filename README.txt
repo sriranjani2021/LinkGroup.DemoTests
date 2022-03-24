@@ -9,6 +9,7 @@ Specflow - Version 3.9.58
 NUnit - Version 3.13.2
 Selenium.Webdriver - Version 4.1.0
 Browser - Chrome
+Target Framework - .NET Core 3.1
 
 Tests:
 Features - 2
